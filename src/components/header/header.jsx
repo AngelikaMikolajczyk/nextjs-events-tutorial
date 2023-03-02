@@ -6,7 +6,7 @@ export function Header() {
         <header>
             <div>
                 <div className="topNav">
-                    <Image src={'/images/logo.jpg'} width={70} height={50} alt="logo" />
+                    <Image src={'/images/logo.png'} width={50} height={50} alt="logo" />
                     <nav>
                         <ul>
                             <li>
